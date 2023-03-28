@@ -1,6 +1,6 @@
-# Ectractor Object
+# Extractor Object
 
-**Extractors object (unapply method) with pattern matching that takes the input (URL) as string and displays the protocol, 
+**Extractor object (unapply method) with pattern matching that takes the input (URL) as string and displays the protocol, 
 domain name, and path from the given URL.**
 
 **Input**
